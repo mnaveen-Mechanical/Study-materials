@@ -3,10 +3,10 @@
 Please upload your study material here.
 
 **Subject:**
-(Enter subject name)
+(Manufacturing Technology)
 
 **Topic:**
-(Enter topic)
+(Unit 1)
 
 **Reference Link (optional):**
 
